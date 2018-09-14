@@ -6,9 +6,8 @@
 //  Updated and maintained by Deusty Designs and the Mac development community.
 //
 //  http://code.google.com/p/cocoaasyncsocket/
-//  
-//  This class is largely derived from Apple's sample code project: SSLSample.
-//  This class does not extract every bit of available information, just the most common fields.
+
+
 
 #import "X509Certificate.h"
 #import "AsyncSocket.h"
